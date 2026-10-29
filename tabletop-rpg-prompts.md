@@ -113,3 +113,7 @@ Do not give stat blocks. Describe difficulty in plain language and tell me which
 ```text
 Describe [THING / PLACE] in three short read-aloud sentences, each using a different sense. Make the first sentence the most important. Setting tone: [TONE]. Avoid purple prose and avoid clichés like 'the air hung heavy'. Add one detail players could investigate and one detail that's just atmosphere.
 ```
+
+---
+
+**Want more?** The [Tabletop RPG and Worldbuilding Prompt Pack](https://agentkitco.com/products/tabletop-rpg-prompt-pack/) ($9) has 40 copy-paste prompts for worlds, towns, NPCs, plots, encounters and live-play helpers, in a 23-page PDF.

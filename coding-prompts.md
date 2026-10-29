@@ -161,3 +161,7 @@ Here is my project's file tree and config files. I've replaced real values with 
 3. Show how to load secrets from environment variables (or a .env file that's ignored).
 4. If a secret was already committed, explain why deleting it in a new commit isn't enough and what to do, starting with revoking or rotating the key.
 ```
+
+---
+
+**Want more?** The [Prompt Pack for Coding](https://agentkitco.com/products/coding-prompt-pack/) ($9) has 40 copy-paste prompts to learn, debug, refactor, test and ship small projects, in a 22-page PDF with examples and a safe-to-run checklist.

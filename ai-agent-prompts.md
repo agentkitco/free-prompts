@@ -145,3 +145,7 @@ RULES
 - Keep answers short. Use plain language, and define terms the first time.
 - Use only the syllabus I give you for what to cover: [PASTE SYLLABUS OR TOPICS].
 ```
+
+---
+
+**Want more?** The [AI Agent Starter Kit](https://agentkitco.com/products/ai-agent-starter-kit/) ($12) walks you through building your first AI agent with no code: a 25-page PDF with 5 agent blueprints, 25 prompt templates and a quick-start checklist.

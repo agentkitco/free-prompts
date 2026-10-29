@@ -137,3 +137,7 @@ I have [HOURS] for a game jam that ends at [DEADLINE + TIME ZONE], and I need sl
 The jam is over. What happened: [NOTES]. Feedback I received: [PASTE].
 Write a retrospective: what worked, what didn't, what I'd do differently, and an honest view on whether this game is worth continuing. If yes, outline a 4-week plan for a post-jam version. If no, give me 3 lessons to take into my next project.
 ```
+
+---
+
+**Want more?** The [Game Jam and Modding Prompt Pack](https://agentkitco.com/products/game-design-prompt-pack/) ($9) has 40 copy-paste prompts for ideas, mechanics, levels, story, balancing, modding, playtesting and shipping, in a 23-page PDF.
