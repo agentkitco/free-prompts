@@ -19,7 +19,7 @@
 
 Step-by-step guides on the website that use these prompts:
 
-- Coding: [AI prompts for unit tests](https://agentkitco.com/blog/ai-prompts-for-unit-tests/), [Debug code with AI prompts](https://agentkitco.com/blog/debug-code-with-ai-prompts/), [AI prompts for learning to code](https://agentkitco.com/blog/ai-prompts-for-learning-to-code/), [AI coding agent stuck in a loop?](https://agentkitco.com/blog/ai-coding-agent-stuck-in-loop/)
+- Coding: [AI prompts for unit tests](https://agentkitco.com/blog/ai-prompts-for-unit-tests/), [Debug code with AI prompts](https://agentkitco.com/blog/debug-code-with-ai-prompts/), [AI prompts for learning to code](https://agentkitco.com/blog/ai-prompts-for-learning-to-code/), [AI coding agent stuck in a loop?](https://agentkitco.com/blog/ai-coding-agent-stuck-in-loop/), [How to review AI-generated pull requests](https://agentkitco.com/blog/review-ai-generated-pull-requests/)
 - Game design: [AI prompts for a game design document](https://agentkitco.com/blog/ai-prompts-for-game-design-document/), [Game jam AI prompts](https://agentkitco.com/blog/game-jam-ai-prompts/), [Can you use AI to make game mods?](https://agentkitco.com/blog/can-you-use-ai-to-make-game-mods/)
 - Tabletop RPG: [AI prompts for tabletop RPG worldbuilding](https://agentkitco.com/blog/ai-prompts-for-tabletop-rpg-worldbuilding/)
 - AI agents: [How to write a system prompt for an AI agent](https://agentkitco.com/blog/write-system-prompt-for-ai-agent/), [Build an AI agent without coding](https://agentkitco.com/blog/build-ai-agent-without-coding/)
