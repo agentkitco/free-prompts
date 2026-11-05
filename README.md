@@ -33,6 +33,7 @@ Maintained by [AgentKit Co](https://agentkitco.com), which also sells longer pai
 If a category here is useful, each one has a longer PDF pack:
 
 - [Prompt Pack for Coding](https://agentkitco.com/products/coding-prompt-pack/) ($9, 40 prompts)
+- [AI PR Review Kit](https://agentkitco.com/products/ai-pr-review-kit/) ($17, review checklists, paste-ready PR comments and 12 review prompts for AI-written pull requests)
 - [Game Jam and Modding Prompt Pack](https://agentkitco.com/products/game-design-prompt-pack/) ($9, 40 prompts)
 - [Tabletop RPG and Worldbuilding Prompt Pack](https://agentkitco.com/products/tabletop-rpg-prompt-pack/) ($9, 40 prompts)
 - [AI Agent Starter Kit](https://agentkitco.com/products/ai-agent-starter-kit/) ($12, no-code guide with 25 prompt templates)
