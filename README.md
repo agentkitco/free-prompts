@@ -24,6 +24,12 @@ Step-by-step guides on the website that use these prompts:
 - Tabletop RPG: [AI prompts for tabletop RPG worldbuilding](https://agentkitco.com/blog/ai-prompts-for-tabletop-rpg-worldbuilding/)
 - AI agents: [How to write a system prompt for an AI agent](https://agentkitco.com/blog/write-system-prompt-for-ai-agent/), [Build an AI agent without coding](https://agentkitco.com/blog/build-ai-agent-without-coding/)
 
+## More free repos from AgentKit Co
+
+- [agent-config-templates](https://github.com/agentkitco/agent-config-templates): free `AGENTS.md` stack starters, a Cursor rule and GitHub Copilot instruction files for AI coding agents
+- [agentkit-dev-skills](https://github.com/agentkitco/agentkit-dev-skills): MIT-licensed Agent Skills (`SKILL.md`) for review, debugging, refactoring and handoffs
+- [claude-code-guard-hooks](https://github.com/agentkitco/claude-code-guard-hooks): free Claude Code hooks that block dangerous bash commands, protect secrets and gate on tests
+
 ## About
 
 Maintained by [AgentKit Co](https://agentkitco.com), which also sells longer paid prompt packs and AI agent starter kits. The prompts here are complete and free; nothing is held back. The prompts were written with AI assistance. Test them on your own tasks and check the outputs. Searchable web version: [agentkitco.com/free-prompts](https://agentkitco.com/free-prompts/).
